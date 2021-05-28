@@ -1,23 +1,30 @@
-.jumbotron {
+body {
+  background-size:cover
+}
+
+.intro {
   background-color: rgb(222, 184, 135, .75);
-  margin-top:2em;
-  margin-bottom:2em;
+  margin:1em;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
-  border-radius: 2em;
-}
-
-.jumbotron p {
-  text-align:start;
-  margin:1em;
   font-weight: bolder;
 }
 
-.jumbotron img {
-  width:100%;
+.intro p {
+  text-align:start;
+  margin:1em;
 }
+
+.intro img {
+  width: 100%;
+}
+
+.row {
+
+}
+
 
 .sidebar {
   float:left;
@@ -51,7 +58,6 @@ a {
   font-family: 'Times New Roman', Times, serif;
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
-  border-radius: 2em;
   float:right;
   box-sizing: border-box;
 }

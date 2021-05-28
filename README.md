@@ -7,14 +7,14 @@
 A portfolio page for the author. The portfolio includes information about active projects, professional background, and personal interests. The pages' unique style is based off a CSS file created by the author.
 
 ### __Setup/Installation__
-* Clone the repository (http://github.com/reduxredux/portfolio) to your local machine
+* Clone the [repository](http://github.com/reduxredux/portfolio) to your local machine
 + Navigate to the top level of the directory
 - Open index.html in your browser
 
-Alternately, visit reduxredux.github.io/portfolio to view the site
+Alternately, visit [Github Pages](reduxredux.github.io/portfolio) to view the site
 
 ### __Known Bugs / Future Goals__
-No bugs have been found or reported. Please contact the author if you experience poor performance or bugs.
+No bugs have been found or reported. Please contact the author if you experience poor performance.
 
 This portfolio page will be updated when new projects are released in a working form.
 
