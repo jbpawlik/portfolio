@@ -29,24 +29,6 @@ h1, h2 {
   height:auto;
 }
 
-
-.active {
-  margin: 1em;
-  float:right;
-  box-sizing: border-box;
-  background-color: rgb(222, 184, 135, .75);
-  width:70%;
-  text-align: left;
-  display: flexbox;
-  justify-content: left;
-  padding:1em;
-  border: .5em solid rgba(24, 12, 1);
-}
-
-.active strong {
-  display:block;
-}
-
 .sidebar {
   margin:1em;
   float:left;
@@ -63,6 +45,23 @@ h1, h2 {
 .sidebar ul {
   padding:1em;
   font-weight: bolder;
+}
+
+.active {
+  margin: 1em;
+  float:right;
+  box-sizing: border-box;
+  background-color: rgb(222, 184, 135, .75);
+  width:70%;
+  text-align: left;
+  display: flexbox;
+  justify-content: left;
+  padding:1em;
+  border: .5em solid rgba(24, 12, 1);
+}
+
+.active strong {
+  display:block;
 }
 
 .sidebar strong {
@@ -90,8 +89,4 @@ a {
 
 .imp {
   font-weight: bold;
-}
-
-#carousel {
-  align-content: center;
 }
