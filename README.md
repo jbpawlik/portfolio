@@ -14,7 +14,7 @@ A portfolio page for the author. The portfolio includes information about active
 Alternately, visit reduxredux.github.io/portfolio to view the site
 
 ### __Known Bugs / Future Goals__
-No bugs have been found or reported. Please contact the author if you experience poor performance or .
+No bugs have been found or reported. Please contact the author if you experience poor performance or bugs.
 
 This portfolio page will be updated when new projects are released in a working form.
 
