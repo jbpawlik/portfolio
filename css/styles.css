@@ -19,31 +19,33 @@
   width:30%;
 }
 
-.selfie {
-  width:30%;
-}
-
 .sidebar {
   float:left;
   box-sizing: border-box;
   background-color: rgb(222, 184, 135, .75);
   width:20%;
   text-align: left;
-  margin:1em;
   display: flexbox;
   justify-content: left;
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
 }
 
+.sidebar ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+
 a {
   color: rgb(44, 35, 20);
 }
 
 .boxen {
-  width: 70%;
+  width: 75%;
   background-color: rgb(222, 184, 135, .75);
-  margin-bottom:2em;
+  margin-bottom:1em;
   margin-right:2em;
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
