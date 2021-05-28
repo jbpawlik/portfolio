@@ -16,7 +16,7 @@
 }
 
 .jumbotron img {
-  width:30%;
+  width:100%;
 }
 
 .sidebar {
@@ -54,4 +54,13 @@ a {
   border-radius: 2em;
   float:right;
   box-sizing: border-box;
+}
+
+.boxen p {
+  text-indent:2em;
+  line-break: auto;
+}
+
+.imp {
+  font-weight: bold;
 }
