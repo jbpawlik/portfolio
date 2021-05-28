@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: burlywood;
+  margin-top:2em;
+  margin-bottom:2em;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  padding:1em;
+}
+
+.jumbotron p {
+  text-align:left;
+  margin:1em;
+}
+
+.boxes {
+
+}
