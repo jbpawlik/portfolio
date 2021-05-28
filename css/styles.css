@@ -47,9 +47,7 @@ body {
   border: .5em solid rgba(24, 12, 1);
 }
 
-
-
-.sidebar ul {
+.sidebar ol {
   list-style-type: none;
   margin:1em;
   padding:1em;
