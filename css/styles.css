@@ -90,3 +90,8 @@ a {
 .imp {
   font-weight: bold;
 }
+
+#demo {
+  margin:1em;
+  padding:1em;
+}
