@@ -15,6 +15,10 @@
   font-weight: bolder;
 }
 
+.jumbotron img {
+  width:30%;
+}
+
 .selfie {
   width:30%;
 }
