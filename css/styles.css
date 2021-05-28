@@ -10,7 +10,7 @@
 }
 
 .jumbotron p {
-  text-align:left;
+  text-align:start;
   margin:1em;
   font-weight: bolder;
 }
