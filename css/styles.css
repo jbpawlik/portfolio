@@ -3,6 +3,10 @@ body {
   background-size: cover;
 }
 
+h1, h2 {
+  font-weight: bold;
+}
+
 .intro {
   background-color: rgb(222, 184, 135, .75);
   margin:1em;
@@ -11,6 +15,8 @@ body {
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
   font-weight: bolder;
+  white-space:normal;
+  font-size:2vw;
 }
 
 .intro p {
@@ -20,7 +26,10 @@ body {
 
 .intro img {
   width: 100%;
+  height:auto;
 }
+
+
 .active {
   margin: 1em;
   float:right;
@@ -32,6 +41,10 @@ body {
   justify-content: left;
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
+}
+
+.active strong {
+  display:block;
 }
 
 .sidebar {
@@ -47,12 +60,14 @@ body {
   border: .5em solid rgba(24, 12, 1);
 }
 
-.sidebar ol {
-  list-style-type: none;
-  margin:1em;
+.sidebar ul {
   padding:1em;
+  font-weight: bolder;
 }
 
+.sidebar strong {
+  font-size: 2em;
+}
 
 a {
   color: rgb(44, 35, 20);
@@ -62,13 +77,10 @@ a {
   width: 100%;
   background-color: rgb(222, 184, 135, .75);
   margin-bottom:1em;
-  margin-right:2em;
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
   padding:1em;
   border: .5em solid rgba(24, 12, 1);
-
-  box-sizing: border-box;
 }
 
 .boxen p {
@@ -78,4 +90,8 @@ a {
 
 .imp {
   font-weight: bold;
+}
+
+#carousel {
+  align-content: center;
 }
