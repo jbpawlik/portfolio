@@ -7,9 +7,9 @@
 A portfolio page for the author. The portfolio includes information about active projects, personal and professional background, and . The pages' unique style is based off a CSS file created by the author.
 
 ### __Setup/Installation__
-* Clone the [repository](http://github.com/reduxredux/portfolio) to your local machine
-+ Navigate to the top level of the directory
-- Open index.html in your browser
+1. Clone the [repository](http://github.com/reduxredux/portfolio) to your local machine
+2. Navigate to the top level of the directory
+3. Open index.html in your browser
 
 Alternately, visit [Github Pages](http://reduxredux.github.io/portfolio) to view the site
 

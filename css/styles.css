@@ -87,11 +87,12 @@ a {
   line-break: auto;
 }
 
-.imp {
-  font-weight: bold;
+.boxen img {
+  width: 50%;
+  height:auto;
+  display:block;
 }
 
-#demo {
-  margin:1em;
-  padding:1em;
+.imp {
+  font-weight: bold;
 }
