@@ -1,6 +1,6 @@
-body {
-  background-repeat: repeat-y;
-  background-size: cover;
+body img {
+  background-repeat:repeat;
+  width: 100%;
 }
 
 h1, h2 {
