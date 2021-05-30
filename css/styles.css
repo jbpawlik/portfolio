@@ -109,3 +109,17 @@ a {
   margin-left: 25%;
   margin-right:25%
 }
+
+.carousel-caption {
+  position:relative;
+  top:auto;
+  left:auto;
+  right:auto;
+  overflow:hidden;
+}
+
+h6 {
+  color: black;
+  text-align:center;
+  background-color: blanchedalmond;
+}
