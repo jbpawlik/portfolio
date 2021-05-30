@@ -95,3 +95,17 @@ a {
 .imp {
   font-weight: bold;
 }
+
+.carousel {
+  width:75%;
+}
+
+.carousel img {
+  height: 360px;
+  object-fit:scale-down;
+}
+
+.carousel-control-prev {
+  margin-left: 25%;
+  margin-right:25%
+}
