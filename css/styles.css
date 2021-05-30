@@ -1,125 +1,91 @@
 body img {
-  background-repeat:repeat;
+  background-repeat: repeat;
 }
-
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
 h1, h2 {
-  font-weight: bold;
+  font-weight: bolder;
+  text-decoration: underline;
 }
-
 .intro {
   background-color: rgb(222, 184, 135, .75);
-  margin:1em;
+  margin: 1em;
   text-align: center;
-  font-family: 'Times New Roman', Times, serif;
-  padding:1em;
+  padding: 1em;
   border: .5em solid rgba(24, 12, 1);
-  font-weight: bolder;
-  white-space:normal;
-  font-size:2vw;
 }
-
 .intro p {
-  text-align:start;
-  margin:1em;
+  text-align: start;
+  margin: 1em;
 }
-
 .intro img {
   width: 100%;
-  height:auto;
+  height: auto;
 }
-
 .sidebar {
-  margin:1em;
-  float:left;
-  box-sizing: border-box;
-  background-color: rgb(222, 184, 135, .75);
-  width:20%;
-  text-align: left;
-  display: flexbox;
-  justify-content: left;
-  padding:1em;
-  border: .5em solid rgba(24, 12, 1);
-}
-
-.sidebar ul {
-  padding:1em;
-  font-weight: bolder;
-}
-
-.active {
   margin: 1em;
-  float:right;
-  box-sizing: border-box;
+  float: left;
   background-color: rgb(222, 184, 135, .75);
-  width:70%;
+  width: 20%;
   text-align: left;
-  display: flexbox;
-  justify-content: left;
-  padding:1em;
+  padding :1em;
   border: .5em solid rgba(24, 12, 1);
+  line-height: 2.5em;
 }
-
-.active strong {
-  display:block;
+.sidebar ul {
+  padding: 1em;
 }
-
 .sidebar strong {
   font-size: 2em;
+  text-decoration: underline;
 }
-
+.active {
+  margin: 1em;
+  float: right;
+  background-color: rgb(222, 184, 135, .75);
+  width: 70%;
+  text-align: left;
+  padding: 1em;
+  border: .5em solid rgba(24, 12, 1);
+}
+.active strong {
+  display: block;
+}
 a {
   color: rgb(44, 35, 20);
 }
-
 .boxen {
   width: 100%;
   background-color: rgb(222, 184, 135, .75);
-  margin-bottom:1em;
+  margin-bottom: 1em;
   text-align: left;
-  font-family: 'Times New Roman', Times, serif;
-  padding:1em;
+  padding: 1em;
   border: .5em solid rgba(24, 12, 1);
 }
-
 .boxen p {
-  text-indent:2em;
-  line-break: auto;
+  text-indent: 2em;
 }
-
-.boxen img {
-  width: 50%;
-  height:auto;
-  display:block;
-}
-
 .imp {
   font-weight: bold;
 }
-
 .carousel {
-  width:75%;
+  width: 75%;
 }
-
 .carousel img {
   height: 360px;
-  object-fit:scale-down;
+  object-fit: scale-down;
 }
-
 .carousel-control-prev {
   margin-left: 25%;
-  margin-right:25%
+  margin-right: 25%
 }
-
 .carousel-caption {
-  position:relative;
-  top:auto;
-  left:auto;
-  right:auto;
-  overflow:hidden;
+  position: relative;
+  left: auto;
+  right: auto;
 }
-
 h6 {
   color: black;
-  text-align:center;
-  background-color: blanchedalmond;
+  text-align: center;
 }
