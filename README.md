@@ -4,7 +4,7 @@
 ### Portfolio is a demonstration site showcasing web design using HTML and CSS elements.
 
 ### __Description__
-A portfolio page for the author. The portfolio includes information about active projects, personal and professional background, and . The pages' unique style is based off a CSS file created by the author.
+A portfolio page for the author. The portfolio includes information about active projects, personal and professional background, and outside interests. The pages' unique style is based off a CSS file created by the author.
 
 ### __Setup/Installation__
 1. Clone the [repository](http://github.com/jbpawlik/portfolio) to your local machine
