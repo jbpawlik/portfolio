@@ -1,5 +1,5 @@
 # Portfolio
-## by James Benjamin Pawlik (http://github.com/reduxredux)
+## by James Benjamin Pawlik (http://github.com/jbpawlik)
 
 ### Portfolio is a demonstration site showcasing web design using HTML and CSS elements.
 
@@ -7,11 +7,11 @@
 A portfolio page for the author. The portfolio includes information about active projects, personal and professional background, and . The pages' unique style is based off a CSS file created by the author.
 
 ### __Setup/Installation__
-1. Clone the [repository](http://github.com/reduxredux/portfolio) to your local machine
+1. Clone the [repository](http://github.com/jbpawlik/portfolio) to your local machine
 2. Navigate to the top level of the directory
 3. Open index.html in your browser
 
-Alternately, visit [Github Pages](http://reduxredux.github.io/portfolio) to view the site
+Alternately, visit [Github Pages](http://jbpawlik.github.io/portfolio) to view the site
 
 ### __Known Bugs / Future Goals__
 No bugs have been found or reported. Please contact the author if you experience poor performance.
