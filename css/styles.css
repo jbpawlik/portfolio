@@ -1,15 +1,17 @@
 body img {
   background-repeat: repeat;
+  
 }
 body {
   font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
 }
 h1, h2 {
   font-weight: bolder;
   text-decoration: underline;
 }
 .intro {
-  background-color: rgb(222, 184, 135, .75);
+  background-color: rgb(222, 184, 135, .9);
   margin: 1em;
   text-align: center;
   padding: 1em;
@@ -26,7 +28,7 @@ h1, h2 {
 .sidebar {
   margin: 1em;
   float: left;
-  background-color: rgb(222, 184, 135, .75);
+  background-color: rgb(222, 184, 135, .9);
   width: 20%;
   text-align: left;
   padding: 1em;
@@ -43,7 +45,7 @@ h1, h2 {
 .active {
   margin: 1em;
   float: right;
-  background-color: rgb(222, 184, 135, .75);
+  background-color: rgb(222, 184, 135, .9);
   width: 70%;
   text-align: left;
   padding: 1em;
@@ -57,7 +59,7 @@ a {
 }
 .boxen {
   width: 100%;
-  background-color: rgb(222, 184, 135, .75);
+  background-color: rgb(222, 184, 135, .9);
   margin-bottom: 1em;
   text-align: left;
   padding: 1em;
@@ -71,10 +73,12 @@ a {
 }
 .carousel {
   width: 75%;
+  
 }
 .carousel img {
-  height: 360px;
+  height: 460px;
   object-fit: scale-down;
+  padding-top: 4em;
 }
 .carousel-control-prev {
   margin-left: 25%;
@@ -85,7 +89,8 @@ a {
   left: auto;
   right: auto;
 }
-h6 {
-  color: black;
+h4 {
+  color: rgba(24, 12, 1);
   text-align: center;
+  font-weight: bold;
 }
